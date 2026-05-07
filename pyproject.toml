@@ -1,6 +1,6 @@
 [project]
 name = "markdown-site-template"
-version = "0.0.1"
+version = "0.1.0"
 description = "Markdown site template built with Zensical, with changelog and release automation"
 readme = "README.md"
 requires-python = ">=3.13"
